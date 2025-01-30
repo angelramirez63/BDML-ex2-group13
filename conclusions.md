@@ -1,2 +1,3 @@
 # Write here a short conclusion of the exercise. That is, answer in less than 
-50 words the last two questions of the notebook of today's class.
+
+La diferencia de los métodos radica en que el Leverage toma la dinámica e interacción entre las variables como toma de decisión para estimar los outliers, y por el otro lado los demás métodos toman las estadísticas descriptivas de de muestra.
